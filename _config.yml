@@ -1,2 +1,4 @@
-﻿baseurl: /blog
+markdown: rdiscount
+pygments: true
+baseurl: /blog
 encoding: UTF-8
